@@ -1,0 +1,597 @@
+[
+  {
+    "Book": "Frankenstein",
+    "Author": "Mary Shelley",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260230-666x1024.jpg",
+    "Price": 3.99,
+    "AverageCustomerRating": 2.55
+  },
+  {
+    "Book": "Animal Farm",
+    "Author": "George Orwell",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840228038-666x1024.jpg",
+    "Price": 5,
+    "AverageCustomerRating": 4.4
+  },
+  {
+    "Book": "Dr Jekyll and Mr Hyde",
+    "Author": "Robert Louis Stevenson",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260612-666x1024.jpg",
+    "Price": 3.5,
+    "AverageCustomerRating": 4.1
+  },
+  {
+    "Book": "20,000 Leagues Under the Sea",
+    "Author": "Jules Verne",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260315-666x1024.jpg",
+    "Price": 2.99,
+    "AverageCustomerRating": 3.7
+  },
+  {
+    "Book": "The Aeneid",
+    "Author": "Virgil",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853262630-666x1024.jpg",
+    "Price": 4,
+    "AverageCustomerRating": 3.2
+  },
+  {
+    "Book": "Age of Innocence",
+    "Author": "Edith Wharton",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853262104-666x1024.jpg",
+    "Price": 4.89,
+    "AverageCustomerRating": 3.9
+  },
+  {
+    "Book": "Anne of Green Gables",
+    "Author": "Lucy Montgomery",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840227598-666x1024.jpg",
+    "Price": 5.2,
+    "AverageCustomerRating": 2.5
+  },
+  {
+    "Book": "Around the World in Eighty Days",
+    "Author": "Jules Verne",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260902-666x1024.jpg",
+    "Price": 5.1,
+    "AverageCustomerRating": 3.8
+  },
+  {
+    "Book": "The Awakening: Selected Short Stories",
+    "Author": "Kate Chopin",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840225846-666x1024.jpg",
+    "Price": 5,
+    "AverageCustomerRating": 3.9
+  },
+  {
+    "Book": "The Best Short Stories",
+    "Author": "Guy de Maupassant",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853261893-666x1024.jpg",
+    "Price": 3.2,
+    "AverageCustomerRating": 3.6
+  },
+  {
+    "Book": "Black Beauty",
+    "Author": "Anna Sewell",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840227611-666x1024.jpg",
+    "Price": 3.8,
+    "AverageCustomerRating": 2.8
+  },
+  {
+    "Book": "Bleak House",
+    "Author": "Charles Dickens",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260827-666x1024.jpg",
+    "Price": 3.99,
+    "AverageCustomerRating": 2.7
+  },
+  {
+    "Book": "Candide and Other Works",
+    "Author": "Voltaire",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840227307-666x1024.jpg",
+    "Price": 5.5,
+    "AverageCustomerRating": 2.5
+  },
+  {
+    "Book": "Collected Short Stories",
+    "Author": "Katherine Mansfield",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840222654-666x1024.jpg",
+    "Price": 5,
+    "AverageCustomerRating": 4.4
+  },
+  {
+    "Book": "The Collected Short Stories of Saki",
+    "Author": "Hector Hugh Monroe",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260711-666x1024.jpg",
+    "Price": 3.5,
+    "AverageCustomerRating": 3.8
+  },
+  {
+    "Book": "The Count of Monte Cristo",
+    "Author": "Alexandre Dumas",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853267338-666x1024.jpg",
+    "Price": 3.89,
+    "AverageCustomerRating": 3.5
+  },
+  {
+    "Book": "Daniel Deronda",
+    "Author": "George Eliot",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853261763-666x1024.jpg",
+    "Price": 3.7,
+    "AverageCustomerRating": 4.2
+  },
+  {
+    "Book": "David Copperfield",
+    "Author": "Charles Dickens",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260247-666x1024.jpg",
+    "Price": 4.5,
+    "AverageCustomerRating": 3.9
+  },
+  {
+    "Book": "De Profundis, The Ballad of Reading Gaol and Other Writings",
+    "Author": "Oscar Wilde",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840224016-666x1024.jpg",
+    "Price": 4.1,
+    "AverageCustomerRating": 3.6
+  },
+  {
+    "Book": "Dead Souls",
+    "Author": "Nikolai Gogol",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840226379-666x1024.jpg",
+    "Price": 3.5,
+    "AverageCustomerRating": 3.4
+  },
+  {
+    "Book": "Dombey and Son",
+    "Author": "Charles Dickens",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853262579-666x1024.jpg",
+    "Price": 2.99,
+    "AverageCustomerRating": 3.4
+  },
+  {
+    "Book": "Diary of a Nobody",
+    "Author": "George and Weedon Grossmith",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853262012-666x1024.jpg",
+    "Price": 4,
+    "AverageCustomerRating": 3.4
+  },
+  {
+    "Book": "Devils",
+    "Author": "Fyodor Dostoevsky",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840220995-666x1024.jpg",
+    "Price": 4.89,
+    "AverageCustomerRating": 3.1
+  },
+  {
+    "Book": "Don Quixote",
+    "Author": "Miguel de Cervantes",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260360-666x1024.jpg",
+    "Price": 5.2,
+    "AverageCustomerRating": 3.9
+  },
+  {
+    "Book": "Dubliners",
+    "Author": "James Joyce",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260483-666x1024.jpg",
+    "Price": 5.1,
+    "AverageCustomerRating": 4.4
+  },
+  {
+    "Book": "Emma",
+    "Author": "Jane Austen",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260285-666x1024.jpg",
+    "Price": 4.2,
+    "AverageCustomerRating": 2.6
+  },
+  {
+    "Book": "Far from the Madding Crowd",
+    "Author": "Thomas Hardy",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260674-666x1024.jpg",
+    "Price": 3.99,
+    "AverageCustomerRating": 2.6
+  },
+  {
+    "Book": "Fathers and Sons",
+    "Author": "Ivan Turgenev",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853262869-666x1024.jpg",
+    "Price": 4.2,
+    "AverageCustomerRating": 2.6
+  },
+  {
+    "Book": "Finnegans Wake",
+    "Author": "James Joyce",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840226614-666x1024.jpg",
+    "Price": 5.2,
+    "AverageCustomerRating": 3.2
+  },
+  {
+    "Book": "Great Expectations",
+    "Author": "Charles Dickens",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260049-666x1024.jpg",
+    "Price": 5.1,
+    "AverageCustomerRating": 3.8
+  },
+  {
+    "Book": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260414-666x1024.jpg",
+    "Price": 3.99,
+    "AverageCustomerRating": 2.8
+  },
+  {
+    "Book": "Gulliver's Travels",
+    "Author": "Jonathan Swift",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260278-666x1024.jpg",
+    "Price": 3.7,
+    "AverageCustomerRating": 3.7
+  },
+  {
+    "Book": "Heart of Darkness",
+    "Author": "Joseph Conrad",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853262401-666x1024.jpg",
+    "Price": 4.8,
+    "AverageCustomerRating": 2.8
+  },
+  {
+    "Book": "House of Mirth",
+    "Author": "Edith Wharton",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840224191-666x1024.jpg",
+    "Price": 3.9,
+    "AverageCustomerRating": 4
+  },
+  {
+    "Book": "House of the Dead & The Gambler",
+    "Author": "Fyodor Dostoevsky",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840226294-666x1024.jpg",
+    "Price": 4.1,
+    "AverageCustomerRating": 4.1
+  },
+  {
+    "Book": "The Hunchback of Notre-Dame",
+    "Author": "Victor Hugo",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260681-666x1024.jpg",
+    "Price": 3.89,
+    "AverageCustomerRating": 2.9
+  },
+  {
+    "Book": "Jane Eyre",
+    "Author": "Charlotte Bront\u00EB",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260209-666x1024.jpg",
+    "Price": 3.75,
+    "AverageCustomerRating": 2.7
+  },
+  {
+    "Book": "Kim",
+    "Author": "Rudyard Kipling",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260995-666x1024.jpg",
+    "Price": 3.2,
+    "AverageCustomerRating": 3.9
+  },
+  {
+    "Book": "Lady Chatterley's Lover",
+    "Author": "D.H. Lawrence",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2018/05/1-3-665x1024.jpeg",
+    "Price": 4,
+    "AverageCustomerRating": 2.7
+  },
+  {
+    "Book": "Les Mis\u00E9rables Volume One",
+    "Author": "Victor Hugo",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260858-666x1024.jpg",
+    "Price": 3.5,
+    "AverageCustomerRating": 3
+  },
+  {
+    "Book": "Les Mis\u00E9rables Volume Two",
+    "Author": "Victor Hugo",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260506-666x1024.jpg",
+    "Price": 3.5,
+    "AverageCustomerRating": 2.8
+  },
+  {
+    "Book": "The Little Prince",
+    "Author": "Antoine de Saint-Exupery",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840227604-666x1024.jpg",
+    "Price": 3.2,
+    "AverageCustomerRating": 3.5
+  },
+  {
+    "Book": "Little Women & Good Wives",
+    "Author": "Louisa May Alcott",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840227536-666x1024.jpg",
+    "Price": 4,
+    "AverageCustomerRating": 4.4
+  },
+  {
+    "Book": "Madame Bovary",
+    "Author": "Gustave Flaubert",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260780-666x1024.jpg",
+    "Price": 4.89,
+    "AverageCustomerRating": 4.3
+  },
+  {
+    "Book": "Mary Barton",
+    "Author": "Elizabeth Gaskell",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840226898-666x1024.jpg",
+    "Price": 5.2,
+    "AverageCustomerRating": 2.8
+  },
+  {
+    "Book": "Middlemarch",
+    "Author": "George Eliot",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853262371-666x1024.jpg",
+    "Price": 5.2,
+    "AverageCustomerRating": 4.3
+  },
+  {
+    "Book": "The Moonstone",
+    "Author": "Wilkie Collins",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260445-666x1024.jpg",
+    "Price": 3.5,
+    "AverageCustomerRating": 3
+  },
+  {
+    "Book": "Mrs Dalloway",
+    "Author": "Virginia Woolf",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853261916-666x1024.jpg",
+    "Price": 2.99,
+    "AverageCustomerRating": 3.2
+  },
+  {
+    "Book": "Nineteen Eighty-Four",
+    "Author": "George Orwell",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840228021-666x1024.jpg",
+    "Price": 5.1,
+    "AverageCustomerRating": 3
+  },
+  {
+    "Book": "North and South",
+    "Author": "Elizabeth Gaskell",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260933-666x1024.jpg",
+    "Price": 3.7,
+    "AverageCustomerRating": 3.9
+  },
+  {
+    "Book": "Oliver Twist",
+    "Author": "Charles Dickens",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260124-666x1024.jpg",
+    "Price": 3.5,
+    "AverageCustomerRating": 4.2
+  },
+  {
+    "Book": "The Picture of Dorian Gray",
+    "Author": "Oscar Wilde",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840224184-666x1024.jpg",
+    "Price": 3.2,
+    "AverageCustomerRating": 4
+  },
+  {
+    "Book": "The Portrait of a Lady",
+    "Author": "Henry James",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853261770-666x1024.jpg",
+    "Price": 3.89,
+    "AverageCustomerRating": 4.4
+  },
+  {
+    "Book": "A Portrait of the Artist as a Young Man",
+    "Author": "James Joyce",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260063-666x1024.jpg",
+    "Price": 4.3,
+    "AverageCustomerRating": 3
+  },
+  {
+    "Book": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260001-666x1024.jpg",
+    "Price": 4,
+    "AverageCustomerRating": 3.2
+  },
+  {
+    "Book": "The Scarlet Letter",
+    "Author": "Nathaniel Hawthorne",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260292-666x1024.jpg",
+    "Price": 3.89,
+    "AverageCustomerRating": 4.2
+  },
+  {
+    "Book": "Selected Stories",
+    "Author": "Anton Chekhov",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853262883-666x1024.jpg",
+    "Price": 3.5,
+    "AverageCustomerRating": 3.3
+  },
+  {
+    "Book": "Sense and Sensibility",
+    "Author": "Jane Austen",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260162-666x1024.jpg",
+    "Price": 3.7,
+    "AverageCustomerRating": 4.4
+  },
+  {
+    "Book": "Sons and Lovers",
+    "Author": "D.H. Lawrence",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2017/05/9781853260476-666x1024.jpg",
+    "Price": 4.8,
+    "AverageCustomerRating": 2.8
+  },
+  {
+    "Book": "Tender is the Night & The Last Tycoon",
+    "Author": "F. Scott Fitzgerald",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840226638-666x1024.jpg",
+    "Price": 3.9,
+    "AverageCustomerRating": 3.5
+  },
+  {
+    "Book": "Tess of the D'Urbervilles",
+    "Author": "Thomas Hardy",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260056-666x1024.jpg",
+    "Price": 4.1,
+    "AverageCustomerRating": 3.1
+  },
+  {
+    "Book": "The Time Machine & Other Works",
+    "Author": "H.G. Wells",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840227383-666x1024.jpg",
+    "Price": 4.9,
+    "AverageCustomerRating": 2.9
+  },
+  {
+    "Book": "To the Lighthouse",
+    "Author": "Virginia Woolf",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260919-666x1024.jpg",
+    "Price": 4.7,
+    "AverageCustomerRating": 3
+  },
+  {
+    "Book": "The Life and Opinions of Tristram Shandy, Gentleman Esquire",
+    "Author": "Laurence Sterne",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2018/11/9781853262913-666x1024.jpg",
+    "Price": 5.2,
+    "AverageCustomerRating": 4.3
+  },
+  {
+    "Book": "Uncle Tom's Cabin",
+    "Author": "Harriet Beecher Stowe",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840224023-666x1024.jpg",
+    "Price": 3.7,
+    "AverageCustomerRating": 3.9
+  },
+  {
+    "Book": "War and Peace",
+    "Author": "Leo Tolstoy",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260629-666x1024.jpg",
+    "Price": 5.8,
+    "AverageCustomerRating": 3.9
+  },
+  {
+    "Book": "Washington Square",
+    "Author": "Henry James",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840224276-666x1024.jpg",
+    "Price": 4.2,
+    "AverageCustomerRating": 3.2
+  },
+  {
+    "Book": "Wuthering Heights",
+    "Author": "Emily Bront\u00EB",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853260018-666x1024.jpg",
+    "Price": 4.2,
+    "AverageCustomerRating": 3.2
+  },
+  {
+    "Book": "The Social Contract",
+    "Author": "Jean-Jacques Rousseau",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853267819-666x1024.jpg",
+    "Price": 5.5,
+    "AverageCustomerRating": 4.1
+  },
+  {
+    "Book": "Thus Spake Zarathustra",
+    "Author": "Friedrich Nietzsche",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853267765-666x1024.jpg",
+    "Price": 5.5,
+    "AverageCustomerRating": 2.9
+  },
+  {
+    "Book": "The Twilight of the Idols",
+    "Author": "Friedrich Nietzsche",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840226133-666x1024.jpg",
+    "Price": 5.1,
+    "AverageCustomerRating": 3.5
+  },
+  {
+    "Book": "Utopia",
+    "Author": "Thomas More",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853264740-666x1024.jpg",
+    "Price": 4.1,
+    "AverageCustomerRating": 4
+  },
+  {
+    "Book": "The Wealth of Nations",
+    "Author": "Adam Smith",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840226881-666x1024.jpg",
+    "Price": 3.89,
+    "AverageCustomerRating": 3.4
+  },
+  {
+    "Book": "The Pilgrim's Progress",
+    "Author": "John Bunyan",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853264689-666x1024.jpg",
+    "Price": 5.5,
+    "AverageCustomerRating": 3.8
+  },
+  {
+    "Book": "The Origin of Species",
+    "Author": "Charles Darwin",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853267802-666x1024.jpg",
+    "Price": 3.89,
+    "AverageCustomerRating": 3.2
+  },
+  {
+    "Book": "Faust",
+    "Author": "Johann Wolfgang von Goethe",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840221152-666x1024.jpg",
+    "Price": 4.1,
+    "AverageCustomerRating": 3.1
+  },
+  {
+    "Book": "The Divine Comedy",
+    "Author": "Dante Alighieri",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840221664-666x1024.jpg",
+    "Price": 4.4,
+    "AverageCustomerRating": 3.9
+  },
+  {
+    "Book": "Democracy in America",
+    "Author": "Alexis de Tocqueville",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853264801-666x1024.jpg",
+    "Price": 5.5,
+    "AverageCustomerRating": 4.1
+  },
+  {
+    "Book": "Decameron",
+    "Author": "Giovanni Boccaccio",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840221336-666x1024.jpg",
+    "Price": 4.1,
+    "AverageCustomerRating": 4
+  },
+  {
+    "Book": "The Communist Manifesto",
+    "Author": "Karl Marx and Friedrich Engels",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840220964-666x1024.jpg",
+    "Price": 5.1,
+    "AverageCustomerRating": 2.9
+  },
+  {
+    "Book": "The Interpretation of Dreams",
+    "Author": "Sigmund Freud",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853264849-666x1024.jpg",
+    "Price": 3.89,
+    "AverageCustomerRating": 4
+  },
+  {
+    "Book": "The Iliad and the Odyssey",
+    "Author": "Homer",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840221176-666x1024.jpg",
+    "Price": 3.2,
+    "AverageCustomerRating": 4.3
+  },
+  {
+    "Book": "Histories",
+    "Author": "Herodotus",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781853264665-666x1024.jpg",
+    "Price": 4.1,
+    "AverageCustomerRating": 3.5
+  },
+  {
+    "Book": "The General Theory of Employment, Interest and Money",
+    "Author": "John Maynard Keynes",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840227475-666x1024.jpg",
+    "Price": 5.1,
+    "AverageCustomerRating": 3.2
+  },
+  {
+    "Book": "Ethics",
+    "Author": "Benedict Spinoza",
+    "Image": "https://wordsworth-editions.com/wp-content/uploads/2022/03/9781840221190-666x1024.jpg",
+    "Price": 4.1,
+    "AverageCustomerRating": 2.6
+  }
+]

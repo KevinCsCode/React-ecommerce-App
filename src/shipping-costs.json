@@ -1,0 +1,782 @@
+[
+  {
+    "Country": "Ireland",
+    "PostalRegion": "Ireland"
+  },
+  {
+    "Country": "United Kingdom",
+    "PostalRegion": "UK"
+  },
+  {
+    "Country": "Canada",
+    "PostalRegion": "North America"
+  },
+  {
+    "Country": "United States of America",
+    "PostalRegion": "North America"
+  },
+  {
+    "Country": "Andorra",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Austria",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Belgium",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Bulgaria",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Croatia",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Czechia (Czech Republic)",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Denmark",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Estonia",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Finland",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Germany",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Greece",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Hungary",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Italy",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Latvia",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Liechtenstein",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Lithuania",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Luxembourg",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Malta",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Monaco",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Netherlands",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Poland",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Portugal",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Serbia",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Slovakia",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Slovenia",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Spain",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Sweden",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Switzerland",
+    "PostalRegion": "Continental Europe"
+  },
+  {
+    "Country": "Afghanistan",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Albania",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Algeria",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Angola",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Argentina",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Armenia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Australia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Azerbaijan",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Bahamas",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Bahrain",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Bangladesh",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Barbados",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Belarus",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Belize",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Benin",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Bhutan",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Bolivia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Botswana",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Brazil",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Brunei",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Burkina Faso",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Burundi",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Cabo Verde",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Cambodia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Cameroon",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Central African Republic",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Chad",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Chile",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "China",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Colombia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Comoros",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Congo (Congo-Brazzaville)",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Costa Rica",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Cuba",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Cyprus",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Democratic Republic of the Congo",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Djibouti",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Dominica",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Dominican Republic",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Ecuador",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Egypt",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "El Salvador",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Eritrea",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Eswatini",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Ethiopia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Fiji",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "France",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Gabon",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Gambia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Georgia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Ghana",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Grenada",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Guatemala",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Guinea",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Guyana",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Haiti",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Holy See",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Honduras",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Iceland",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "India",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Indonesia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Iran",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Iraq",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Israel",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Jamaica",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Japan",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Jordan",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Kazakhstan",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Kenya",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Kiribati",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Kuwait",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Laos",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Lebanon",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Lesotho",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Liberia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Libya",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Madagascar",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Malawi",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Malaysia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Maldives",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Mali",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Marshall Islands",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Mauritania",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Mauritius",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Mexico",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Micronesia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Moldova",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Mongolia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Montenegro",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Morocco",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Mozambique",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Myanmar (formerly Burma)",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Namibia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Nauru",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Nepal",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "New Zealand",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Nicaragua",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Niger",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Nigeria",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "North Korea",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "North Macedonia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Norway",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Oman",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Pakistan",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Palau",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Palestine State",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Panama",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Paraguay",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Peru",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Philippines",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Qatar",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Romania",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Russia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Rwanda",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Saint Lucia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Samoa",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "San Marino",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Senegal",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Seychelles",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Sierra Leone",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Singapore",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Solomon Islands",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Somalia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "South Africa",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "South Korea",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "South Sudan",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Sri Lanka",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Sudan",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Suriname",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Syria",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Tajikistan",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Tanzania",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Thailand",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Timor-Leste",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Togo",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Tonga",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Tunisia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Turkey",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Turkmenistan",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Tuvalu",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Uganda",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Ukraine",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Uruguay",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Uzbekistan",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Vanuatu",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Venezuela",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Vietnam",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Yemen",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Zambia",
+    "PostalRegion": "Rest of world"
+  },
+  {
+    "Country": "Zimbabwe",
+    "PostalRegion": "Rest of world"
+  }
+]
